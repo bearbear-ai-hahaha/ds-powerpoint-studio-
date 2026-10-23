@@ -1,0 +1,20 @@
+{
+  "title": "DS PowerPoint Studio Demo",
+  "slides": [
+    {
+      "title": "Hello from the DS Lite",
+      "body": "A presentation created with a Nintendo DS homebrew app.\nTiny console. Big ambitions.",
+      "bg": "navy"
+    },
+    {
+      "title": "How it works",
+      "body": "Create slides on the DS touchscreen or with buttons.\nSave a .dspres project to the flashcart.",
+      "bg": "blue"
+    },
+    {
+      "title": "Export to PowerPoint",
+      "body": "Copy the project to a computer or phone.\nRun the companion exporter to create a .pptx file.",
+      "bg": "purple"
+    }
+  ]
+}
